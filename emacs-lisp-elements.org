@@ -1,0 +1,333 @@
+:PROPERTIES:
+:ID:       1EC82A8C-6311-479C-A511-FC6273DD76E3
+:END:
+#+title: Prot's Emacs Lisp Elements Book
+
+[[https://protesilaos.com/emacs/emacs-lisp-elements][Link]]
+
+* Chapter 2
+** Only 2 fundamental things in Emacs Lisp
+There are only 2 things in Emacs Lisp: fundamental objects and lists
+of them.
+
+The fundamental objects are:
+
+- Primitives like numbers and string
+- Symbols like variables, function names, and other character symbols
+** Expressions
+Every expression is a list (functionName argument1 argument2...) where
+arguments are optional. Some functions have mandatory arguments.
+
+Example (use SPC-x to run):
+
+#+begin_src emacs-lisp
+  (message "Hello world, this is my message to you!")
+#+end_src
+** Function calls
+Function calls are just lists. (message "Hello") is a list with 2
+elements in it.
+** Single ticks '
+Single tick ' means not to evaluate the expression right now and to
+only use it as is.
+
+Example:
+
+#+begin_src emacs-lisp
+  (message "This is a message with %s" '(one two three))
+#+end_src
+
+Output:
+
+#+begin_quote
+This is a message with (one two three)
+#+end_quote
+
+** How to define variables
+#+begin_src emacs-lisp
+  (defvar my-name "Mikail")
+#+end_src
+
+** Variables vs functions
+Variables and functions have different name spaces. When we call a
+variable by itself Emacs is doing (symbol-value 'varname) in the
+background.
+
+If you call the name of a variable by itself inside parens then Emacs
+will think you are trying to call a function and you will get an
+error.
+
+(varname) will return an error if there is no function called varname.
+* Chapter 3
+** The advantage of learning Elisp
+Emacs is written and extended in Elisp so learning this language
+allows you to fully customize, modify, and extend the editor.
+** Interactive functions
+Interactive functions are called commands.
+
+** Evaluating expressions
+You can evaluate elisp from anywhere using things like:
+
+- eval-last-sexp
+- eval-buffer
+- eval-region
+
+M-: eval-expression allows you to write and run an arbitrary elisp
+expression in a minibuffer.
+
+ielm brings up a buffer where you can run Elisp commands.
+
+eval-print-last-sexp is like the regular eval function but it puts the
+results right below the expression.
+
+** Describing keymaps
+describe-keymap to see the key bindings for any mode or installed
+package.
+* Chapter 4
+** How to define variables
+#+begin_src emacs-lisp
+  (defvar my-name "Arkvis"
+    "This is some documentation about a name.
+  A good Elisp program will document all the functions and variables it
+  provides. Emacs developers have a strong documentation culture.
+  It complements the software freedom we stand for, because it empowers
+  users to learn from the tools available to them and thus exercise
+  their freedom.")
+#+end_src
+
+** Use describe functions
+Use the describe functions to learn about what different things do in
+Emacs. This should be the primary source of looking things up before
+checking online as this will teach you from the source.
+
+* Chapter 5 - Side effect and return value
+** Functions
+Functions can, both, return values and/or have side effects.
+* Chapter 6 - Symbols, balanced expressions, and quoting
+** Lists
+Lists are of two types:
+
+1. Function calls (message "hello")
+2. Data:
+
+#+begin_src emacs-lisp
+(car '("one" "two" "three"))
+(cdr '("one" "two" "three"))
+#+end_src
+
+To use a list as data we prefix it with a single quote '
+
+** Self-evaluating data types
+Self-evaluating data types; meaning they return themselves as a value.
+
+| Type    | Example                    |
+|---------+----------------------------|
+| string  | "hello"                    |
+| number  | 1                          |
+| keyword | :hello                     |
+| symbol  | 'some-function-or-variable |
+| nil     | nil                        |
+| t       | t                          |
+** Quotes and sharp quotes
+When you put a quoted symbol into a list and get back that value from
+the list it will no longer be quoted.
+
+A sharp quote is the same as a regular quote but specifies we are
+referring to a function.
+
+#+begin_src emacs-lisp
+  #'some-function
+#+end_src
+
+** symbol-value and symbol-function
+symbol-value returns the value of a variable.
+
+symbol-function returns the closure of a function:
+
+#+begin_src emacs-lisp
+  (defun my-greet (person)
+    (format "Hello %s" person))
+
+  (symbol-function 'my-greet)
+#+end_src
+
+Output:
+#+begin_src emacs-lisp
+  (lambda (person) (format "Hello %s" person))
+#+end_src
+
+defun is creating an alias for this lambda. You can confirm this by
+running pp-macroexpand-last-sexp on any defun.
+
+* Chapter 7 - Buffers as data
+** What are buffers
+Buffers contain data as a sequence of characters. The position you are
+in a buffer is known as the point.
+** Things we can do with buffers
+*** Getting and switching buffers
+- (buffer-substring-no-properties)
+- (get-buffer-create)
+- (get-buffer)
+- (with-current-buffer)
+- (display-buffer)
+- (pop-to-buffer)
+- (buffer-list)
+
+*** Get contents as a string
+- (buffer-string)
+- (buffer-substring)
+
+*** Erasing content
+- (erase-buffer)
+- (delete-region)
+
+*** Buffer local variables
+- (buffer-file-name)
+- (fill-column)
+- (default-directory)
+- (setq-local)
+
+* Chapter 8 - Text has its own properties
+** Text properties
+Text has properties like font, for example. To see these properties
+for the char at point use:
+
+#+begin_src emacs-lisp
+  (describe-char)
+#+end_src
+
+You can add properties to text like this:
+
+#+begin_src emacs-lisp
+  (add-text-properties start end 'properties)
+#+end_src
+
+** Documentation summary
+To view a documentation summary for groups of functionality, like
+text-properties, we can use (shortdoc).
+
+* Chapter 9 - Add metadata to symbols
+** Add a property
+We can add a property to a symbol:
+
+#+begin_src emacs-lisp
+  (put 'the-symbol 'property-name '("an example" "of" "a list"))
+#+end_src
+
+** Retrieve a property
+We can retrieve the value of that property:
+
+#+begin_src emacs-lisp
+  (get 'the-symbol 'property-name)
+#+end_src
+
+** Retrieve all properties
+To get all of the properties of a symbol:
+
+#+begin_src emacs-lisp
+  (symbol-plist 'the-symbol)
+#+end_src
+
+* Chapter 10 - What are major and minor modes
+Major and minor modes are commands that activate settings.
+
+There can only be one major mode active at a time. There can be
+multiple minor modes activate at a time.
+
+* Chapter 11 - Hooks and the advice mechanism
+** What are hooks
+A hook is a list of functions that run for major and minor modes when
+the hook is run. Most of these functions are called without
+parameters.
+
+** How to add hooks
+Example of how to add a hook:
+
+#+begin_src emacs-lisp
+  ;; Add globally
+  (add-hook 'text-mode-hook #'visual-line-mode)
+
+  ;; Add locally
+  (add-hook 'text-mode-hook #'some-function nil t)
+#+end_src
+** How to remove hooks
+Example of how to remove a hook:
+
+#+begin_src emacs-lisp
+  ;; Remove globally
+  (remove-hook 'hl-line-mode-hook #'some-function)
+
+  ;; Remove locally
+  (remove-hook 'hl-line-mode-hook #'some-function t)
+#+end_src
+
+** Hooks with parameters
+Some hooks, called abnormal hooks, take parameters. We can call these
+with:
+
+#+begin_src emacs-lisp
+  (run-hook-with-args 'hook-functions param1 param2...)
+#+end_src
+
+** What is advice
+If a package does not offer hooks we can use advice. This should be
+used cautiously as it can introduce bugs.
+
+Advice is a way for us to call code before, after, or around a
+function.
+
+** How to add advice
+Notice how this has a &rest parameter. This is because the next-line
+function has parameters and those are passed to whatever function we
+use as advice. If the function you are calling takes no parameters
+then none are needed as part of your function definition.
+
+#+begin_src emacs-lisp
+  (defun my/message-line-number (&rest _)
+    "Message the current line number"
+    (message "Current line: %s" (line-number-at-pos)))
+
+  (advice-add #'next-line :after #'my/message-line-number)
+#+end_src
+
+_ is the convention for unused parameters.
+
+We can also use :around and many others. See the documentation for
+(advice-add).
+** How to remove advice
+To remove advice:
+
+#+begin_src emacs-lisp
+  (advice-remove #'next-line #'my/message-line-number)
+#+end_src
+* Chapter 12 - Evaluate some elements inside of a list
+In order to evaluate some code inside of a quoted list we can do it
+like this:
+
+#+begin_src emacs-lisp
+  (message "%s" `(one two ,tab-width three))
+#+end_src
+
+#+RESULTS:
+: (one two 8 three)
+
+Notice we replace the ' with a ` and add a , before the variable we
+want evaluated.
+
+We can do the same to call a function:
+
+#+begin_src emacs-lisp
+  (message "%s" `(one two ,(concat "three " "four") five))
+
+#+end_src
+
+#+RESULTS:
+: (one two three four five)
+
+* Chapter 13 Evaluation inside of a macro or special form
+** Special forms
+There are some special forms in Emacs like setq, let, and defun where
+the symbols given to them are not evaluated.
+
+setq and let take names for the variables being constructed. And defun
+takes a function name and a list of parameters which are not evaluated
+when defun is called.

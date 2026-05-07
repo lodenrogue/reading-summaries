@@ -1,0 +1,356 @@
+:PROPERTIES:
+:ID:       AF5C3F7A-D3F3-42E8-9935-2640A4ED9DE0
+:END:
+#+title: Atomic Habits Book
+
+* Chapter 1 - The Surprising Power of Atomic Habits
+** Story of British Cyclists
+Making 1% incremental changes compounds over time
+** Plateau of Latent Potential
+The Plateau of Latent Potential is where people start to lose hope on
+the little progress they're making but this plateau is right before
+the big exponential changes start to happen.
+** Systems are more important than goals
+Systems are more important than goals. One can focus on systems
+instead of results and still achieve goals.
+
+** The problems with only setting goals instead of working on systems
+1. Winners and losers have the same goals
+2. Achieving a goal is only a momentary change
+3. Goals restrict your happiness
+4. Goals are at odds with progress
+
+Number 3 reminds me of the Stoic approach where instead of making
+results the source of your happiness you make what you can control the
+source of your happiness. Making results the source always keeps
+putting off the happiness until the next milestone.
+
+Number 4 is about not continuing to do our systems after we achieve a
+large enough goal. This limits progress.
+
+* Chapter 2 - How Your Habits Shape Your Identity (and Vice Versa)
+** Why its hard to change habits
+1. We try to change the wrong thing
+2. We try to change them in the wrong way
+
+** 3 layers of behavior change
+There are 3 layers of behavior change:
+
+1. Outcomes - these are focused on results
+2. Process - these are about changing habits and systems
+3. Identity - these are about changing your beliefs and views
+
+This reminds me of the approach in Buddhism where the Eightfold Path
+starts with Right View. Right View then informs Right Intentions and
+the morality triplet (Right Speech, Right Action, Right Livelihood).
+
+In a way, Right View is a change in identity. At a deep level you stop
+seeing things as self and instead view reality as a momentary
+processes; culminating in an understanding of the 4 Noble Truths.
+
+** Pride leads to behavioral changes
+We learn the story of a man who used to chew his fingernails until one
+day he decided to get a manicure. The nail tech told his he had very
+nice fingernails and from that day on he decided not to chew them
+anymore because he started identifying with being someone who has nice
+nails. He started taking pride in this. Pride leads to behavioral
+changes because its a form of identity.
+** Dangers of identity
+From my own experience I can see dangers with this because when
+identity is threatened that's when we become stressed and start to
+suffer. So, one has to be very careful how much one identifies with
+something.
+** My ideas on identity and views
+The author continues to make the claim that identity is the real
+reason behind motivating habits. I think to the times when I'm most
+motivated to do things like charity and I don't believe its because of
+an identity belief. For me, its the view that doing such an action
+will lead to some result and that the driving force behind such action
+is real.
+
+At this point in the book I'm more inclined to say that having the
+correct view is more important than having the right identity. Yes,
+identity is part of one's views but there's more to it. The view of
+how reality actually works is critical in shaping behavior.
+
+** Evidence leads to belief
+The more evidence we have for a belief the more we will believe it. I
+can see in my experience that the more I do meditation the more
+evidence I accumulate for the belief that reality is just moments of
+experience and that each experience is impermanent, unsatisfying, and
+not under my control.
+
+The author makes the point that the more we do a behavior the more
+evidence we accumulate for our identity. The more we read the more
+evidence we have that we're a reader. The more we write the more we
+believe we're a writer, etc.
+
+We don't need to be perfect. We just need more experiences that align
+with the identity we want than go against. 
+
+** How to accumulate evidence
+In order to accumulate the evidence we need for these new identities
+we need to:
+
+1. Decide who we want to be
+2. Prove it through small actions that align with that identity
+
+Some people only have the results in mind when trying to decide who
+they want to be. Start from there and work backwards to recognize the
+identity of the type of person who achieves these results.
+
+** The feedback loop
+Identity reinforces habits and habits reinforce identity. Its a
+feedback loop.
+
+* Chapter 3 - How to Build Better Habits in 4 Simple Steps
+** Cats in a room
+A study of cats given the task to escape a room is illustrated. At
+first the cats take a long time figuring out what needs to be done to
+escape but after some trials the cats get much quicker. The reward,
+food, played a critical role in motivating the cat's behavior.
+** Habits are solutions to recurring problems
+Our habits are formed as solutions for recurring problems. We may be
+stressed and trying to find a way to feel better until we stumble on
+something like playing a video game which gives us that feeling. This
+pleasure creates an impression in our mind that encourages us to do
+the same behavior next time. After a while this habit becomes
+automatic; we're stress and we reach for the game controller.
+
+** 4 steps to forming a habit
+Forming a habit has 4 steps
+
+1. Cue - The signal that predicts a reward
+2. Craving - The desire for the reward
+3. Response - The action we take to acquire the reward
+4. Reward - The pleasure or relief we feel when we achieve what we desired
+
+This process creates a feedback loop where the reward informs the mind
+that these steps should be performed again in the future. If any of
+these steps fail then the habit won't form.
+
+** The two phases
+The habit cycle can be divided into two phases:
+
+1. The Problem Phase
+   - Cue
+   - Craving
+2. Solution Phase
+   - Response
+   - Reward
+
+** Four laws of behavior change
+*** How to create a good habit
+1. Cue - Make it obvious
+2. Craving - Make it attractive
+3. Response - Make it easy
+4. Reward - Make it satisfying
+
+*** How to break a bad habit
+1. Cue - Make it invisible
+2. Craving - Make it unattractive
+3. Response - Make it difficult
+4. Reward - Make it unsatisfying
+
+* Chapter 4 - The Man Who Didn't Look Right
+** A paramedic's intuition
+We're told the story of a paramedic who noticed her father-in-law's
+appearance was off despite him feeling well. He was rushed to the
+hospital and it was discovered he had a blockage in a major artery. He
+was then rushed into surgery, most likely saving his life.
+
+Our mind unconsciously picks up on cues and triggers cravings and
+responses. This can be both useful and dangerous which is why we need
+to intentionally create our behaviors.
+
+** Point-and-calling
+Japanese train staff have a practice called Point-and-Calling where
+they point at things like the train schedule and say the time, the
+light on the track and say the color, and the speedometer of the train
+and say the speed out loud. This leads to fewer mistakes and
+accidents.
+
+This reminds me of the Mahasi Sayadaw noting technique where one notes
+each experience, like pain or hearing, until it ceases.
+
+** The habits scorecard
+The first step in changing our habits is being aware of them. Create a
+list of all the habits you do and score them with a + if it is
+beneficial in the long term a - if its not and an = if its neutral. If
+you have trouble scoring some items think of how it aligns with the
+identity you desire.
+
+Then, as a first step, just be aware when you do certain habits. Don't
+judge yourself. Sometimes it helps to say out loud what you're about
+to do and how it aligns or doesn't with your long term goals. For
+example, if you're about to eat a cookie you can say, "I'm going to
+eat this cookie. I don't need to. It will make me gain weight and not
+be good for my health."
+
+This last advice sounds a lot like judging though.
+
+* Chapter 5 - The Best Way to Start a New Habit
+** Implementation intention
+Research shows that the best results come from making a plan about
+WHEN and WHERE one will act on a habit. This is called implementation
+intention.
+
+This takes into account the two most common cues for a habit which are
+time and location.
+
+** Diderot
+We learn of the story of Diderot where one purchase led to another and
+he was soon overspending.
+
+This highlights how one habit can lead to another which can be
+dangerous but can also be used for our advantage through habit
+stacking.
+
+** Habit stacking
+Habit stacking is the practice of pairing one habit with another and
+doing them in a specific sequence.
+
+Some examples:
+
+- After brushing your teeth you can take your medicine
+- After ordering dinner you can go for a walk
+- After taking a shower you can pray
+
+You can continue stacking these habits like this:
+
+- After I brush my teeth I will take my medicine
+- After I take my medicine I will do my readings
+- After I do my readings I will write in my blog
+
+** Finding where to stack habits
+An idea for figuring out where to stack habits is to make two lists.
+
+The first list is things you do every day without fail:
+
+- Wake up
+- Open your laptop for work
+- Brush your teeth
+
+And things that happen without fail:
+
+- Your alarm rings
+- The episode you were watching ends
+- The sun sets
+
+You can then insert habits after these triggers.
+
+* Chapter 6 - Motivation is Overrated; Environment Often Matters More
+** The hospital experiment
+A hospital wanted to help it's employees make healthier food choices
+so they increased the locations where they could get water in the
+cafeteria. This was successful and more water was consumed vs soda.
+** The role of environment
+Our environment plays a huge role in our behavior. We are mainly
+visual creatures so setting up your environment to give you visual
+cues is critical.
+
+** Visual cues
+Set up visual cues in order to trigger the habits you want. Design
+your environment so that cues are sprinkled throughout areas you
+frequent.
+** Your relationship with your environment
+Eventually you will realize that your relationship to your environment
+is more important than the objects in it when it comes to cues.
+** Creating spaces for routines
+Try and set up different spaces in your home for different
+routines. If you're currently triggered for an unwanted habit in a
+particular location then change locations. Its easier to create a
+habit in a new location than trying to do it in an environment with
+competing cues.
+** One space one purpose
+Each room, or each space if you don't have multiple rooms, should be
+used for only 1 purpose. Examples: the kitchen is just for cooking,
+the bedroom is just for sleeping, the office is just for working.
+
+* Chapter 7 - The Secret to Self-Control
+** The Vietnam war
+During the Vietnam war around 15% of soldiers became addicted to
+heroin. When they returned home only 5% of them relapsed within a year
+and 12% within three years.
+
+This shows how a change in environment can change something as
+difficult as addiction.
+
+** A word of caution
+I would caution that this should not be taken as a green light to
+engage in behaviors that lead to addiction as one could very easily
+fall within the 12% of those who relapse or never be able to
+successfully change the environmental cues which trigger the addict
+habits.
+
+** Environment as the trigger
+Research shows that those who are successful at self-control are not
+those who have heroic will power but those who spend less time in
+triggering environments.
+
+** Habits are self affirming
+The process of bad habits is self affirming. When you feel stressed
+you overeat and overeating making you feel stressed so the cycle
+continues.
+
+** Remove yourself
+The author suggests removing yourself from the environment that
+triggers bad habits. This is not always possible though.
+
+** Make it invisible
+Making the cues for bad habits invisible is another strategy where you
+prevent yourself from being exposed to things that trigger them.
+
+** Summary of how to create a good habit
+*** Make it obvious
+**** Create the Habit Scorecard
+1. Use Implementation Intentions: I will [BEHAVIOR] at [TIME] in [LOCATION]
+2. Use habit stacking: After [CURRENT BEHAVIOR] I will [NEW BEHAVIOR]
+3. Design environment to make cues more visible
+*** Make it attractive
+*** Make it easy
+*** Make it satisfying
+** Summary of how to break a bad habit
+*** Make it invisible
+Reduce exposure to environments, remove the cues
+*** Make it unattractive
+*** Make it difficult
+*** Make it unsatisfying
+* Chapter 8 - How to Make a Habit Irresistible
+** Herring Gull chicks
+A Dutch scientist named Niko Tinbergen ran an experiment where he
+would place cardboard beaks with red dots in front of herring gull
+chicks to see how they would react. Normally, the mother, who had
+these dots on her beak, would have it pecked by the chicks and she
+would feed them.
+
+When the chicks saw the dots on the cardboard beak they did the
+same. Tinbergen added more dots and the chicks reacted even more
+enthusiastically.
+
+
+** Geese
+Something similar was tested among geese when their eggs would fall
+its nest. Normally the geese would fly down and pick it up with its
+neck to place it back. When a white ball was placed nearby the geese
+repeated the behavior. The bigger the ball the bigger the effort the
+goose would put in.
+** Supernomal stimuli
+These exaggerated cues are called supernormal stimuli.
+
+Foods with contrasting textures and flavors encourage us to eat
+more. If we eat simple foods our brains get bored and we feel full
+faster.
+
+
+** Dopamine
+Dopamine is the key to forming habits. Experiments have been done on
+rats where their brains were inhibited from releasing dopamine and
+they lost their will to eat, have sex, or even move. When they were
+fed sugar they still liked it but they didn't desire it because
+dopamine had been removed from the equation.
+
+Dopamine is what causes us to act. Its released when you anticipate
+pleasure and when you experience pleasure. The expectation of pleasure
+is what causes us to act. The same reward center gets activated when
+you desire something and when you experience the attainment of it.
