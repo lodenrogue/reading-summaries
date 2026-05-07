@@ -13,7 +13,7 @@ future review.
 | [[./the-hobbit.org][The Hobbit]]           | J.R.R Tolkein       | pg. 107    |
 | [[./the-eye-of-the-world.org][The Eye of the World]] | Robert Jordan       | pg. 47     |
 | [[./atomic-habits.org][Atomic Habits]]        | James Clear         | pg. 90     |
-| [[./emacs-lisp-elements.org][Emacs Lisp Elements]]  | Protesilaos Stavrou | chapter 13 |
+| [[./emacs-lisp-elements.org][Emacs Lisp Elements]]  | Protesilaos Stavrou | Chapter 13 |
 
 * Completed Summaries
 Summaries are organized by genre or topic for easier navigation:
