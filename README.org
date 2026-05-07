@@ -1,0 +1,22 @@
+#+TITLE: Reading Notes & Summaries
+#+AUTHOR: Miguel Hernandez
+#+OPTIONS: toc:2
+
+A collection of summaries, key takeaways, and personal reflections on
+books I have read or am currently reading. This repository serves as a
+digital garden for my learning process and a quick-reference guide for
+future review.
+
+* Current Reading List
+| Title                | Author              | Status     |
+|----------------------+---------------------+------------|
+| [[./the-hobbit.org][The Hobbit]]           | J.R.R Tolkein       | pg. 107    |
+| [[./the-eye-of-the-world.org][The Eye of the World]] | Robert Jordan       | pg. 47     |
+| [[./atomic-habits.org][Atomic Habits]]        | James Clear         | pg. 90     |
+| [[./emacs-lisp-elements.org][Emacs Lisp Elements]]  | Protesilaos Stavrou | chapter 13 |
+
+* Completed Summaries
+Summaries are organized by genre or topic for easier navigation:
+
+** Non-Fiction
+** Fiction
