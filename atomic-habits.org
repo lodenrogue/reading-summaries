@@ -328,7 +328,6 @@ When the chicks saw the dots on the cardboard beak they did the
 same. Tinbergen added more dots and the chicks reacted even more
 enthusiastically.
 
-
 ** Geese
 Something similar was tested among geese when their eggs would fall
 its nest. Normally the geese would fly down and pick it up with its
@@ -342,7 +341,6 @@ Foods with contrasting textures and flavors encourage us to eat
 more. If we eat simple foods our brains get bored and we feel full
 faster.
 
-
 ** Dopamine
 Dopamine is the key to forming habits. Experiments have been done on
 rats where their brains were inhibited from releasing dopamine and
@@ -354,3 +352,12 @@ Dopamine is what causes us to act. Its released when you anticipate
 pleasure and when you experience pleasure. The expectation of pleasure
 is what causes us to act. The same reward center gets activated when
 you desire something and when you experience the attainment of it.
+
+** The dompanine cycle
+When we first experience a rewarding event dopamine spikes when we get
+the reward. The next time dopamine spikes when we are exposed to the
+cue but not at the time of reward. If the reward is never experienced
+then we have a sharp dopamine drop. If the reward is experienced late
+we have a dopamine spike when the reward is finally achieved.
+
+Desire is what drives behavior.
