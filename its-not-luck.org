@@ -1,0 +1,99 @@
+:PROPERTIES:
+:ID:       CDDC5871-655B-47C2-9B84-9C656CD76AA9
+:END:
+#+title: Its not luck book
+
+* You don't always need to lower prices
+One reason companies lower prices is because they can't deliver on
+their orders and use this as a means to acquire new customers. If
+buyers can't get their products from anywhere else because companies
+are struggling to deliver on orders, there is sufficient demand, and
+you can deliver orders on time you don't have to lower prices.
+
+* Perception of value
+Perception of value is not derived from the effort to produce a
+product but from the benefits derived from having the product.
+** Two types of benefits
+*** Adding/increasing something positive
+You gain something positive by using this product. Comfort, speed,
+etc.
+
+This requires more work in convincing the customer that this positive
+is worth it.
+*** Removing/reducing something negative
+You remove something negative by using this product. Number of
+chemicals in your food, the need to repair the device as often,
+harmful impact on the environment, etc
+
+This is the path of least resistance. The customer is intimately aware
+of the negatives and requires no convincing.
+
+* Using current reality tree to identify customer core problem
+Constructing a Current Reality Tree (CRT) of the customer's
+undesirable effects leads to finding the one or two core problems the
+customer has, which are the root causes for their problems, that when
+solved completely topple the tree of undesirable effects.
+
+* Using CRTs to define product offerings
+Once we've identified the core problem of our customers we don't have
+to change our product but instead change the offering as a whole to
+better address this core problem.
+
+* Construct Future Reality Tree to predict market changes
+Once we've identified how to modify our product offering we can
+construct a Future Reality Tree to see the logical changes that would
+occur in the CRT we built earlier.
+
+We then need to scrutinize every logical branch. This is where you can
+enlist the help of SMEs and those with a gift at finding alternative
+explanations and spotting missed scenarios.
+
+Then we identify any potential negative branches that may arise as a
+result of changing our product offering and modify it to ensure that
+these branches cannot occur.
+
+* Market segmentation
+Market segmentation allows for the same product to be sold at
+different prices when segments of a market value the product
+differently.
+
+#+begin_example
+For example, a company that sells health and beauty products to both
+men and women may differentiate their products by gender. The products
+for women may be more expensive and have packaging with pinks and
+floral accents, while the products for men may be characterized by
+more rugged blacks and greys.
+#+end_example
+
+You should segment the market but not your resources/workforce. This
+allows flexibility when the market drops in one segment.
+
+* How to generate segmentation
+Construct the CRTs for different groups of customers who have
+overlapping but not exact UDEs (Undesirable Effects). Then provide a
+product offering that has 2 components. One that solves the core
+problem common to all customers and another that solves the remaining
+UDEs for that particular group. The perception of the product's value
+will be higher for that group because it solves more UDEs through
+solving more of their core problems.
+
+* Identifying a good strategy
+A good strategy must have 3 components:
+
+1. Must make money now and in the future
+2. Provide a secure and satisfying environment for employees now and
+   in the future
+3. Provide satisfaction to the market now and in the future
+
+If the first one is missing the company will run out of money. If the
+second is missing then employees will leave and/or productivity will
+be reduced. If the third one is missing then no one will buy the
+products or services the company produces.
+
+A good strategy also does not segment your resources/workforce. You
+should only segment the market. This allows flexibility to focus on
+profitable segments as profitability shifts with minimal or no
+resource changes.
+
+Additionally, you should only enter segments that don't have a
+probability of disappearing at the same time.

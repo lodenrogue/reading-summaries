@@ -19,4 +19,7 @@ future review.
 Summaries are organized by genre or topic for easier navigation:
 
 ** Non-Fiction
+| Title                | Author              |
+|----------------------+---------------------|
+| [[./its-not-luck.org][Its Not Luck]]         | Eliyahu M. Goldratt |
 ** Fiction
