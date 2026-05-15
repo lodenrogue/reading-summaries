@@ -206,6 +206,3 @@ improvement and to see which sales people need help at which stage.
 ***** How many Solutions Presentations were completed? 
 ***** How many solutions were sold? 
 ***** What was the average dollar value? 
-
-* Reference
-https://ia601708.us.archive.org/17/items/TheEMythRevisitedMichaelE.Gerber/The%20E-Myth%20Revisited%20-%20Michael%20E.%20Gerber.pdf
