@@ -22,4 +22,5 @@ Summaries are organized by genre or topic for easier navigation:
 | Title                | Author              |
 |----------------------+---------------------|
 | [[./its-not-luck.org][Its Not Luck]]         | Eliyahu M. Goldratt |
+| [[./the-e-myth-revisited.org][The E-Myth Revisited]] | Michael E. Gerber   |
 ** Fiction

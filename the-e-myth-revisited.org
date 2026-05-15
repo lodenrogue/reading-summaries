@@ -1,0 +1,211 @@
+:PROPERTIES:
+:ID:       2AEAEE58-4546-4A13-9836-CD696FB159B5
+:END:
+#+title: The E-Myth Revisited
+
+* Rules of the Franchise Game
+Ultimately, your real customer is the person who will buy the business
+from you. You need to create a business that runs itself, is
+profitable, and requires no owner input. The business should be
+transferable and replicable.
+** The model will provide consistent value to your customers, employees, suppliers, and lenders, beyond what they expect.
+** The model will be operated by people with the lowest possible level of skill.
+** The model will stand out as a place of impeccable order.
+** All work in the model will be documented in Operations Manuals.
+** The model will provide a uniformly predictable service to the customer.
+** The model will utilize a uniform color, dress, and facilities code.
+* Questions to ask while working on your business
+** How can I get my business to work, but without me?
+** How can I get my people to work, but without my constant interference?
+** How can I systematize my business in such a way that it could be replicated 5,000 times, so the 5,000th unit would run as smoothly as the first?
+** How can I own my business, and still be free of it?
+** How can I spend my time doing the work I love to do rather than the work I have to do?
+* Business Development Process
+** Innovation
+Innovation is using creativity to solve problems in new ways,
+including the improvement of existing systems.
+** Quantification
+Quantification is using numbers to measure and evaluate the impact
+made by your innovations and tracking their performance over time.
+** Orchestration
+Orchestration is documenting a system that works, training your team
+to run the system, implementing it and creating a management culture
+where the system delivers consistently, predictably and reliably—until
+innovation improves it.
+* Business Development Program
+** Your Primary Aim
+The primary aim is what you would like your life to look like and how
+you would like to be remembered. Some questions to discover that:
+*** What do I wish my life to look like?
+*** How do I wish my life to be on a day-to-day basis?
+*** What would I like to be able to say I truly know in my life, about my life?
+*** How would I like to be with other people in my life—my family, my friends, my business associates, my customers, my employees, my community?
+*** How would I like people to think about me?
+*** What would I like to be doing two years from now? Ten years from now? Twenty years from now? When my life comes to a close?
+*** What specifically would I like to learn during my life—spiritually, physically, financially, technically, intellectually? About relationships?
+*** How much money will I need to do the things I wish to do? By when will I need it?
+** Your Strategic Objective
+*** How much money does this business need to produce to meet my primary aim?
+*** An opportunity worth pursuing
+Is there a big enough market to achieve the monetary goal?
+Define what you're selling and to who
+**** What kind of business is it?
+What you sell is a commodity but your product, what people buy, is a
+feeling. What feeling/experience are you selling?
+**** Who is my customer?
+***** Central Demographic Model
+Most probable customer. What are their characteristics. Age, gender,
+income, family status, education, profession, etc.
+***** Central Psychographic Model
+Why your customer wants to buy
+*** Standards
+**** When is your Prototype going to be completed? In two years? Three? Ten?
+**** Where are you going to be in business? Locally? Regionally? Nationally? Internationally?
+**** How are you going to be in business? Retail? Wholesale? A combination of the two?
+**** What standards are you going to insist upon regarding reporting, cleanliness, clothing, management, hiring, firing, training, and so forth?
+** Your Organizational Strategy
+Org chart which defines all the roles and responsibilities fulfilled
+by the company to achieve the strategic objective.
+*** Position contract
+A Position Contract (as we call it at E-Myth Worldwide) is a summary
+of the results to be achieved by each position in the company, the
+work the occupant of that position is accountable for, a list of
+standards by which the results are to be evaluated, and a line for the
+signature of the person who agrees to fulfill those accountabilities.
+
+Fill out who will be responsible for these positions even if you have
+less people than positions. Some people will take on multiple
+positions until you can afford/fill those roles. But at least you know
+who is responsible and accountable for those roles.
+*** Business Development Process
+As you start working in these roles you must also work ON these
+roles. Meaning, you should innovate, quantify, and orchestrate the
+role. You document this in the operations manual for the given
+position.
+
+Start from the bottom up. Do the process for the lowest level and then
+hire it out.
+*** When to hire
+Only after the operations manual for a position is written, as a
+result of the Business Development Process, do you run an ad to fill
+this position.
+** Your Management Strategy
+Clearly defined, step by step, instructions of what each part of the
+system does. What each role must do to deliver consistent and
+predictable results to the customer.
+** Your People Strategy
+Give people goals and a game they can play and make progress on but
+the game should never end. The game should be rewarding every once in
+a while with something the workers decide is fun. Every 6 months is
+good.
+** Your Marketing Strategy
+First determine your demographic then figure out their psychographic,
+or the reason why they buy. Customers don't know what they want
+because its a subconscious desire. Its your job as a business owner to
+uncover that desire and fulfill it.
+
+We must try answer "What must our business be in the mind of our
+customers in order for them to choose us over everyone else?"
+
+From this perspective, everything your company does is a marketing
+process.
+*** Demographics
+Who your customer is.
+
+Use questionnaires and conversations to figure this out. Give away
+free product to get answers.
+*** Psychographics
+The subconscious reasons why they buy. Here we discover the percieved
+value of our business to the customer.
+
+Psychographics also includes things like how customers react to
+certain colors, shapes, and words.
+
+Use questionnaires to figure this out. Ask about colors, and shapes,
+and words. Give away free product to get answers.
+
+Ask about what products and brands they buy. Then watch ads and
+commercials by these brands to discover what message they are giving
+the customer. Find the real product customers are buying.
+*** Finding Customers
+You buy a list or target a list (through ads) of customers matching
+the demographics and psychographics you discovered above.
+**** How to do it
+Draw a Trading Zone on the map. The Trading Zone is the
+geographic area where your customers are located. Get their address
+from the questionnaire.
+
+Buy a list of customers matching the demographics living within the
+Trading Zone.
+** Your Systems Strategy
+*** Hard Systems
+Hard Systems are inanimate, unliving things. My computer is a Hard
+System, as are the colors in this office’s reception area. The signs,
+the colors, the uniforms, etc.
+*** Soft Systems
+Soft Systems are either animate—living—or ideas. You are a Soft
+System; so is the script for Hamlet.
+**** Design the Customer Fulfillment System
+Design, in a turn-key franchise way, how you are going to fulfill the
+customer's needs in detail.
+**** Lead Generation
+How to find potential customers. See Marketing -> Finding Customers
+**** Lead Conversion
+How to convert them to actual customers
+***** The Selling Process
+The selling process must be done exactly the same way with the same
+words and energy every time for it to be systematic, repeatable, and
+improvable.
+****** The Appointment Presentation
+Show the customer the product you have to sell, not the commodity, and
+ask if they're interested in learning more. This establishes an
+emotional connection with what the customer wants subconsciously; the
+emotional need.
+****** The Needs Analysis Presentation
+Repeat the value proposition to reconnect emotionally.
+
+Then tell them high level how you will proceed to fulfill on your
+promise.
+
+Establish credibility by explaining your expertise and your personal
+willingness to do whatever it takes to use your expertise, not
+personally but systematically, for the benefit of the customer.
+
+Then explain the impact it will have on the customer if they choose
+you.
+****** The Solutions Presentation
+Present your solutions, always tying it back to the emotional
+connection you established earlier.
+
+Ask the buying question, "which one of these options would best serve
+you?" and then stay silent. The next person to speak will make the
+purchase and if its you the purchase will be a "no sale" purchase.
+**** Deliver
+How you will deliver on your promise to your customers
+*** Information System
+Information Systems are those that provide us with information about
+the interaction between the other two. Inventory control, cash flow
+forecasting, and sales activity summary reports are all Information
+Systems.
+
+Here we track all the data about our business and operations. We then
+use this data to inform us how to make our business better.
+**** Sales example
+Record answers to the following questions to see what areas need
+improvement and to see which sales people need help at which stage.
+***** How many calls were made?
+***** How many prospects were reached?
+***** How many appointments were scheduled?
+***** How many appointments were confirmed?
+***** How many appointments were held?
+***** How many Needs Analysis Presentations were scheduled?
+***** How many Needs Analyses were confirmed?
+***** How many Needs Analyses were completed?
+***** How many Solutions Presentations were scheduled?
+***** How many Solutions Presentations were confirmed? 
+***** How many Solutions Presentations were completed? 
+***** How many solutions were sold? 
+***** What was the average dollar value? 
+
+* Reference
+https://ia601708.us.archive.org/17/items/TheEMythRevisitedMichaelE.Gerber/The%20E-Myth%20Revisited%20-%20Michael%20E.%20Gerber.pdf
