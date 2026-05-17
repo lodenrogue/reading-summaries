@@ -331,3 +331,12 @@ the symbols given to them are not evaluated.
 setq and let take names for the variables being constructed. And defun
 takes a function name and a list of parameters which are not evaluated
 when defun is called.
+** Macros
+We can use macros to define our own special forms. We can see what a
+macro expands to by placing the point on the closing parenthesis and
+running pp-macroexpand-last-sexp.
+
+Macros are a way to reuse or inject code into your logic flow. With
+functions arguments passed are evaluated before the function is
+called. But with macros you can pass arguments that the macro chooses
+when to evaluate.
