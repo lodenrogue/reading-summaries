@@ -10,7 +10,7 @@ future review.
 * Current Reading List
 | Title                | Author              | Status     |
 |----------------------+---------------------+------------|
-| [[./the-hobbit.org][The Hobbit]]           | J.R.R Tolkein       | pg. 183    |
+| [[./the-hobbit.org][The Hobbit]]           | J.R.R Tolkien       | pg. 186    |
 | [[./the-eye-of-the-world.org][The Eye of the World]] | Robert Jordan       | pg. 47     |
 | [[./atomic-habits.org][Atomic Habits]]        | James Clear         | pg. 98     |
 | [[./emacs-lisp-elements.org][Emacs Lisp Elements]]  | Protesilaos Stavrou | Chapter 13 |
