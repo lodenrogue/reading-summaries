@@ -610,3 +610,9 @@ They rowed up the river, against the current, for 3 days. When they
 disembarked their escorts tell them they won't go any further. Taking
 their packed ponies, the group makes their way northwest, away from
 the river, and reach a barren and desolate land.
+
+** The valley of Dale
+After making camp Thorin sends out Balin, Fili, Kili, and Bilbo to
+scout ahead. They scouts come upon the ruins of Dale, a once green and
+pleasant valley which Balin remembers before the dragon came and
+destroyed it.
