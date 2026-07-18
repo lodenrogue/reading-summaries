@@ -323,7 +323,7 @@ We can do the same to call a function:
 #+RESULTS:
 : (one two three four five)
 
-* Chapter 13 Evaluation inside of a macro or special form
+* Chapter 13 - Evaluation inside of a macro or special form
 ** Special forms
 There are some special forms in Emacs like setq, let, and defun where
 the symbols given to them are not evaluated.
